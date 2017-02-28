@@ -1,0 +1,8 @@
+---
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+  memory: 256M
+  instances: 1
+  host: ibmapt
+  name: Application Planner Tool
+  disk_quota: 1024M
