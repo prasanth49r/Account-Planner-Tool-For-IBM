@@ -49,8 +49,6 @@
   .page-container .page-content {
     padding: 0 !important;
     margin: 0 !important;
-	min-height:100%;
-    position:relative;
   }
   .page-container .page-content > .container {
     width: 100%;

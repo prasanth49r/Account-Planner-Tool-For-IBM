@@ -208,7 +208,7 @@ var Layout = function () {
                 $('.page-prefooter').outerHeight() - 
                 $('.page-footer').outerHeight();
 
-            $('.page-content').css('min-height', height);
+            $('.page-content').css('min-height', height*2);
         }
     };
 

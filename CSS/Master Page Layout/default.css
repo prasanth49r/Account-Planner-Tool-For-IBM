@@ -384,9 +384,6 @@ Page Footer
 .page-prefooter {
   background: #48525e;
   color: #a2abb7;
-  bottom: 0;
-  width: 100%;
-  position:absolute;
 }
 .page-prefooter h2 {
   color: #4db3a4;
@@ -442,9 +439,6 @@ Page Footer
 .page-footer {
   background: #3b434c;
   color: #a2abb7;
-  bottom: 0;
-  width: 100%;
-  position:absolute;
 }
 
 /* Scroll Top */
